@@ -10,4 +10,6 @@ func main() {
 	fmt.Println("I got it")
 
 	fmt.Println("Feature")
+
+	fmt.Println("MAIN")
 }
