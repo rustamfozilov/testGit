@@ -8,4 +8,6 @@ func main() {
 	fmt.Println("Goodbyy")
 
 	fmt.Println("I got it")
+
+	fmt.Println("Feature")
 }
